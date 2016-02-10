@@ -49,7 +49,7 @@ $products[107] = array(
 $products[108] = array(
     "name" => "Logo Shirt, Orange",
     "img" => "img/shirts/shirt-108.jpg",
-    "price" => 25,
+    "price" => 35,
 );
 
 ?>
