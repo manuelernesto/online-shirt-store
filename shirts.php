@@ -8,6 +8,9 @@
 
 $pageTitle = "Mike's Full Catalog of Shirts";
 $section = "shirts";
+
+
+//Included my header page
 include('inc/header.php');
 
 
@@ -74,4 +77,5 @@ $products[108] = array(
     </div>
 
 
+    <!--Included my footer page-->
 <?php include('inc/footer.php');
